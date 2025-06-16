@@ -1,4 +1,4 @@
-# faye, the french AI girl(friend)
+# faye, the french AI girl :)
 
 >"ah, a little adventure in coding!"
 
